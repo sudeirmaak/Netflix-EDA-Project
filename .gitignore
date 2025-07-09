@@ -1,0 +1,48 @@
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+#Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+#Virtual Environment
+venv/
+.env/
+env/
+ENV/
+
+#SQLite Database
+data/*.db
+
+#Output Data 
+data/processed/
+data/temp/
+*.csv
+
+#Streamlit cache
+.streamlit/
+
+#Generated Images
+images/
+
+#VS Code Settings
+.vscode/
+
+#Mac System Files
+.DS_Store
+Thumbs.db
+
+#Logs
+*.log
+
+#Python Environment
+*.env
+*.venv
+
