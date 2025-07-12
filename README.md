@@ -4,14 +4,16 @@ Exploratory Data Analysis (EDA) of Netflix titles to uncover insights about cont
 
 ## Project Structure
 
+```
 EDA-Project/
 │
 ├── data/                 # Raw and cleaned datasets, database
 ├── notebook/             # Jupyter notebooks for analysis
 ├── venv/                 # Virtual environment (not pushed)
 ├── visuals/              # All plotted visuals
-├── README.md/            # Here, hey!!!
-└──requirements.txt       # Project dependencies
+├── README.md             # Here, hey!!!
+└── requirements.txt      # Project dependencies
+```
 
 ## Purpose
 
